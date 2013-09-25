@@ -6,3 +6,9 @@ int main(void)
 
   return 0;
 }
+
+
+int func2 ()
+{
+  return 0;
+}
