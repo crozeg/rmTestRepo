@@ -6,3 +6,9 @@ int main(void)
 
   return 0;
 }
+
+int lol () 
+{
+  int test = 0;
+  test++;
+}
