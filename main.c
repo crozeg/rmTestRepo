@@ -12,3 +12,8 @@ int lol ()
   int test = 0;
   test++;
 }
+
+int weiterarbeitNachMergeMitMaster () 
+{
+  ;
+}
